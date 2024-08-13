@@ -1,0 +1,16 @@
+﻿l_spanish:
+
+ NUI_FT_family_tree_interaction:0 "Abrir árvore genealógica"
+ NUI_FT_family_tree_interaction_desc:0 "Abrir a árvore genealógica de #high [recipient.GetTitledFirstNameNoTooltip]#!"
+ NUI_FT_compare_trees_interaction:0 "Comparação de árvores genealógicas"
+ NUI_FT_compare_trees_interaction_desc:0 "Comparar a árvore genealógica de #high [GetGlobalVariable( 'NUI_FT_target' ).GetCharacter.GetTitledFirstNameNoTooltip]#! e #high [recipient.GetTitledFirstNameNoTooltip]#!"
+
+ NUI_FT_open_family_tree_TT:0 "#I Clique para abrir a Árvore genealógica#!"
+ NUI_FT_set_compare_target_TT:0 "#I Comparar com a árvore genealógica deste personagem#!"
+ NUI_FT_change_target_TT:0 "#I Focar neste personagem#!"
+ NUI_FT_set_anchor_TT:0 "#I Definir como âncora#!"
+ NUI_FT_pin_target_TT:0 "#I Fixar este personagem#!"
+ NUI_FT_unpin_target_TT:0 "#I Remover#!"
+
+ NUI_FT_anchor_TEXT:0 "Âncora"
+ NUI_FT_previous_character_TEXT:0 "Personagem anterior"
